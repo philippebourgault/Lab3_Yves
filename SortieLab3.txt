@@ -1,0 +1,39 @@
+phil@ubuntu:~/Lab3$ ./Lab3
+*************************
+ USB Experiment Program:
+*************************
+
+[1]
+   iManufacturer = 1
+   string = SAMSUNG
+   iProduct = 2
+   string = SAMSUNG_Android
+   iSerialNumber = 3
+   string = 4a4e3837
+   bDescriptorType = 1
+   string = SAMSUNG
+   bDeviceClass = 0
+   bDeviceProtocol = 0
+   bDeviceSubClass = 0
+   idVendor = 1256
+   string = SAMSUNG
+   idProduct = 26720
+   string = SAMSUNG
+   bcdDevice = 1024
+   string = SAMSUNG
+   bcdUSB = 512
+   string = SAMSUNG
+   bNumConfigurations = 1
+   string = SAMSUNG
+   bMaxPacketSize = 64
+   string = SAMSUNG
+   bLength = 18
+   string = SAMSUNG
+
+[2]
+
+*************************
+        Done
+*************************
+phil@ubuntu:~/Lab3$ 
+
